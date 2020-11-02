@@ -1,0 +1,15 @@
+#about {
+    background-color: #2a9d8f;
+    color: white;
+    padding: 15px;
+}
+
+#aboutTitle {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#aboutTitle2 {
+    float: right;
+}

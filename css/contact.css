@@ -1,0 +1,27 @@
+#contact {
+    background-color: #f4a261;
+    padding: 15px;
+}
+
+.contactEmail {
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.contactMessage {
+    position: relative;
+    
+    width: 350px;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+label {
+    margin: 5px;
+}
+
+.contactButton {
+    border-radius: 8px;
+}

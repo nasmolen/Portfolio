@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: #264653;
+    background-size: cover;
+    height: 450px;
+    color: white;
+}
+
+#jumboText {
+    margin-top: 60px;
+}
