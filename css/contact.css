@@ -11,11 +11,11 @@
 
 .contactMessage {
     position: relative;
-    
     width: 350px;
     padding: 10px;
     border-radius: 8px;
     margin: 5px;
+    margin-top: 40px;
 }
 
 label {
@@ -24,4 +24,17 @@ label {
 
 .contactButton {
     border-radius: 8px;
+}
+
+.contactIconDiv {
+    width: 60px;
+    height: 60px;
+    float: right;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.contactImg {
+    width: 60px;
+    height: 60px;
 }
